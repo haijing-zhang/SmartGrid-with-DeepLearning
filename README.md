@@ -1,2 +1,1 @@
-# myproject
-Predicting load flexibilty with LSTM model based on Keras
+# Electrical load flexibility prediction with LSTM/GRU/Transformer models using Keras
