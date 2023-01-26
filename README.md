@@ -1,6 +1,6 @@
 # Electrical load flexibility prediction with LSTM/GRU/Transformer models using Tensorflow(Keras) and Pytorch
 
-Related Publication link: 
+Related publication link: 
 
 https://www.sciencedirect.com/science/article/pii/S2095809921002605
 
